@@ -1,1 +1,1 @@
-# Grocer
+Grocery Management Web App Development using Python, MYSQL, JavaScript.
